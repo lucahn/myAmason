@@ -1,0 +1,23 @@
+{
+  "name": "myamason",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Amason.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucahn/myAmason.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucahn/myAmason/issues"
+  },
+  "homepage": "https://github.com/lucahn/myAmason#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
